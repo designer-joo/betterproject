@@ -1,0 +1,28 @@
+
+body{margin: 0; padding: 0;}
+.mainbody{ width:1048px; margin: 0 auto; text-align: center;}
+
+
+.mainbody img{display: block;}
+
+
+
+
+.better3point{position: relative;;}
+
+
+
+.point01,.point02,.point03,.point04,.point05{ position: absolute; }
+
+.point01{bottom: 0; right: 132px;}
+
+.point02{ top:0; left: 132px;}
+
+.point03{ top:120px; right:356px; }
+
+.point04{ top:240px;  right: 132px;}
+
+.point05{top: 0; left:227px; }
+
+
+
